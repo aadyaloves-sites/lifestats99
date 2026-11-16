@@ -1,22 +1,22 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: "2.0.0"
-id: 00000000-0000-7000-8000-000000000011
+schemaVersion: 2.0.0
+id: 01a1e28f-0e4a-7a02-be08-329a0de2a6d6
 kind: page
 title: About
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a1e28f-0e4a-781a-9219-a3447ad4917c
 tags: []
 status: published
-createdAt: "2026-09-27T00:00:00.000Z"
-publishedAt: "2026-09-27T00:00:00.000Z"
+createdAt: '2026-11-16T04:13:08.554Z'
+publishedAt: '2026-11-16T04:13:08.554Z'
 slug: about
 redirects: []
 extensions: {}
 ---
 
-PLACEHOLDER-SITE-TITLE is written by PLACEHOLDER-AUTHOR-NAME.
+Life Stats is written by aadyaloves.
 
 This publication is a place for considered work: finished essays, useful field
 notes, and the ideas that become clearer through writing.

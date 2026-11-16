@@ -1,21 +1,22 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: "2.0.0"
-id: 00000000-0000-7000-8000-000000000010
+schemaVersion: 2.0.0
+id: 01a1e28f-0e4a-7e72-b866-9d62e3ed4d54
 kind: article
 title: Coming soon
-description: PLACEHOLDER-SITE-TITLE is a new publication by PLACEHOLDER-AUTHOR-NAME. The first posts are on their way.
+description: Life Stats is a new publication by aadyaloves. The first posts are on
+  their way.
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a1e28f-0e4a-781a-9219-a3447ad4917c
 tags: []
 status: published
-createdAt: "2026-09-27T00:00:00.000Z"
-publishedAt: "2026-09-27T00:00:00.000Z"
+createdAt: '2026-11-16T04:13:08.554Z'
+publishedAt: '2026-11-16T04:13:08.554Z'
 slug: coming-soon
 redirects: []
 extensions:
   com.galascribe.starter: true
 ---
 
-PLACEHOLDER-SITE-TITLE is a new publication by PLACEHOLDER-AUTHOR-NAME. The first posts are on their way; they appear here the day they are published.
+Life Stats is a new publication by aadyaloves. The first posts are on their way; they appear here the day they are published.
